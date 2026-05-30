@@ -40,7 +40,7 @@ publishing {
             pom {
                 name.set("JavaAI Core")
                 description.set("Simple AI agent for learning Minecraft player inputs")
-                url.set("https://github.com/user/JavaAI")
+                url.set("https://github.com/Chagui68/JavaAI")
                 licenses {
                     license {
                         name.set("MIT License")

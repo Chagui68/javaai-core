@@ -22,8 +22,8 @@ A lightweight Java/Kotlin library for tracking, analyzing, and predicting Minecr
 Since the library is not yet published to Maven Central, clone the repo and publish it to your local Maven repository:
 
 ```bash
-git clone https://github.com/your-username/javaai-core.git
-cd javaai-core
+git clone https://github.com/Chagui68/JavaAI.git
+cd JavaAI
 ./gradlew publishToMavenLocal
 ```
 
@@ -124,6 +124,10 @@ long size = JavaAI.getInstance().getHistorySize(playerId);
 | `MathUtils` | Utility helpers: lerp, clamp, smoothstep, angle math, moving average |
 
 ---
+
+## Author
+
+**[Chagui68](https://github.com/Chagui68)**
 
 ## License
 
