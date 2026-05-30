@@ -125,10 +125,6 @@ long size = JavaAI.getInstance().getHistorySize(playerId);
 
 ---
 
-## Author
-
-**[Chagui68](https://github.com/Chagui68)**
-
 ## License
 
 MIT
